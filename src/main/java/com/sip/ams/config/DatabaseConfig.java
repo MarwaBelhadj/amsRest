@@ -1,6 +1,6 @@
 package com.sip.ams.config;
 
-
+/*
 import javax.activation.DataSource;
 
 import org.springframework.beans.factory.annotation.Value;
@@ -24,3 +24,4 @@ public class DatabaseConfig {
 	}
 }
 
+*/
